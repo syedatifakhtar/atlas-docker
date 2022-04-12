@@ -1,0 +1,5 @@
+/data
+.idea
+.github
+*.tar.gz
+*.iml
